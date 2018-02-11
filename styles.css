@@ -23,6 +23,7 @@ h4{
 
 .display-4{
     font-size:3rem;
+    font-weight: bold;
 }
 
 .container{
@@ -31,4 +32,11 @@ h4{
 
 .header-icon{
     font-size: 2rem;
+}
+
+.image{
+    padding: 10%;
+    background: url("./World-Map.png") center no-repeat;
+    background-size: cover;
+    color: black;
 }

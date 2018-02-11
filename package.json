@@ -1,0 +1,23 @@
+{
+  "name": "activeloc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpakam/ActiveLOC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpakam/ActiveLOC/issues"
+  },
+  "homepage": "https://github.com/dpakam/ActiveLOC#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}

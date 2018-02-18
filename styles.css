@@ -35,8 +35,23 @@ h4{
 }
 
 .image{
-    padding: 10%;
     background: url("./World-Map.png") center no-repeat;
     background-size: cover;
     color: black;
+}
+
+.logo{
+    height: 40px
+}
+
+@media only screen and (max-width: 768px) {
+    .display-4{
+        font-size: 2rem;
+    }
+    .container{
+        padding-bottom: 10%;
+    }
+    .logo{
+        height: 25px
+    }
 }
